@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://youtu.be/ix1HjQUW5dw?si=QbyAzW4yNZNfloGP", // Music streaming URL
+        musicUrl: "https://noble-coffee-zreapxffdh.edgeone.app/Laufey%20-%20Beautiful%20Stranger%20(Lyrics).mp3", // Music streaming URL
         startText: "⋆｡‧𝄞⨾𓍢ִ໋˚⋆.˚✮ʚ🎧ɞ✮˚.⋆𝄞⨾𓍢ִ໋ ",        // Button text to start music
         stopText: "STOP THE NOISE 🤕",         // Button text to stop music
         volume: 1.0                        // Volume level (0.0 to 1.0)
