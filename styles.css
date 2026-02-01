@@ -137,13 +137,13 @@ body {
     outline: none;
     position: relative;
     border-radius: 15px;
-    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.2);
+    box-shadow: 0 4px 15px rgba(251, 247, 134, 0.2);
     transition: all 0.3s ease;
 }
 
 .slider:hover {
     transform: scale(1.02);
-    box-shadow: 0 6px 20px rgba(255, 107, 107, 0.3);
+    box-shadow: 0 6px 20px rgba(251, 247, 134, 0.3);
 }
 
 /* Ensure track is visible */
