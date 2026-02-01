@@ -21,7 +21,7 @@ body {
     justify-content: center;
     align-items: center;
     background: linear-gradient(135deg, var(--background-color-1), var(--background-color-2));
-    font-family: Lilita-one, sans-serif;
+    font-family: Lilita-one, caveat;
     overflow-x: hidden;
 }
 
@@ -256,7 +256,7 @@ body {
 }
 
 h1, h2 {
-    font-family: Lilita-one, sans-serif;
+    font-family: Lilita-one, caveat;
     font-weight: 700;
 }
 
