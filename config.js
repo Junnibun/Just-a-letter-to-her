@@ -57,8 +57,8 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
+        backgroundStart: "#111627",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#295e81",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://clever-blush-kkyfd5nzru.edgeone.app/Clairo%20-%20Flamin%20Hot%20Cheetos%20(Lyrics).mp3", // Music streaming URL
         startText: "⋆｡‧𝄞⨾𓍢ִ໋˚⋆.˚✮ʚ🎧ɞ✮˚.⋆𝄞⨾𓍢ִ໋ ",        // Button text to start music
         stopText: "STOP THE NOISE 🤕",         // Button text to stop music
-        volume: 1.0                        // Volume level (0.0 to 1.0)
+        volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
 
