@@ -43,8 +43,8 @@ function getDefaultColor(key) {
     const defaults = {
         backgroundStart: "#ddf1ff",
         backgroundEnd: "#295e81",
-        buttonBackground: "#ff6b6b",
-        buttonHover: "#ff8787",
+        buttonBackground: "#2989cb",
+        buttonHover: "#5db1ea",
         textColor: "#ff4757"
     };
     return defaults[key];
