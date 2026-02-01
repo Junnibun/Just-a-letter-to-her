@@ -196,7 +196,7 @@ body {
 }
 
 #extraLove {
-    color: #ff6b6b;
+    color: #f3ed36;
     font-weight: bold;
     animation: bounce 0.5s infinite alternate;
     display: block;
@@ -217,7 +217,7 @@ body {
 
 #loveValue {
     font-weight: bold;
-    color: #fff947;
+    color: #f3ed36;
     font-size: 1.3em;
     transition: all 0.3s ease;
 }
