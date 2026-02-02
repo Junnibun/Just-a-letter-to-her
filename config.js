@@ -80,7 +80,7 @@ const CONFIG = {
         musicUrl: "https://still-teal-c4tw2sr8gj.edgeone.app/Clairo%20-%20Flamin%20Hot%20Cheetos%20(Lyrics).mp3", // Music streaming URL
         startText: "｡‧𝄞⨾𓍢ִ໋˚⋆.˚✮ʚ🎧ɞ✮˚.⋆𝄞⨾𓍢ִ໋ ",        // Button text to start music
         stopText: "STOP THE NOISE 🤕",         // Button text to stop music
-        volume: 1.0                        // Volume level (0.0 to 1.0)
+        volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
 
