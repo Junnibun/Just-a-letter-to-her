@@ -77,7 +77,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://still-teal-c4tw2sr8gj.edgeone.app/Clairo%20-%20Flamin%20Hot%20Cheetos%20(Lyrics).mp3", // Music streaming URL
+        musicUrl: "https://image2url.com/r2/default/audio/1770008213271-57abeee3-4900-4005-9f0b-a1174b96ea45.mp3", // Music streaming URL
         startText: "｡‧𝄞⨾𓍢ִ໋˚⋆.˚✮ʚ🎧ɞ✮˚.⋆𝄞⨾𓍢ִ໋ ",        // Button text to start music
         stopText: "STOP THE NOISE 🤕",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
